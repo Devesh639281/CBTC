@@ -1,0 +1,18 @@
+#dark{
+    background-color:#5f264a;
+    color: #080808;
+}
+
+#dark .about{
+    background-color: rgb(195, 31, 58);
+    color: blue;
+}
+.footer{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 170px;
+    height: 20vh;
+    background-color:black;
+    color: white;
+}

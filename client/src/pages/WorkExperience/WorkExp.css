@@ -1,0 +1,26 @@
+ .work{
+    background-color: #71a5a32a;
+    margin-left: 170px;
+    padding: 40px;
+ }
+
+ @media screen and (max-width: 992px) {
+     .work {
+        width:70vw;
+        padding-bottom: 20%;
+        background-color: #59a8a62a;
+     }
+ }
+
+.work-exp{
+    padding: 60px 0px;
+}
+.work-exp h2{
+    font-weight: bold;
+    color:#1e1e2c;
+}
+.work-exp hr{
+    color:#138781;
+    width:300px;
+    margin:10px auto;
+}
